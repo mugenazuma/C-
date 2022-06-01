@@ -1,0 +1,5 @@
+1. Inscription
+2. connection
+3. liste produit
+4. commande
+5. recap commande et envoi
